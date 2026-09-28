@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Weriqxbotmc",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "11806.aternos.me",
+    "port": 60211,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
